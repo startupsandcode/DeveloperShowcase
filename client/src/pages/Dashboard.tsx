@@ -1,5 +1,4 @@
 import { Navigation } from "@/components/Navigation";
-import { Hero } from "@/components/Hero";
 import { DashboardGrid } from "@/components/DashboardGrid";
 import { Contact } from "@/components/Contact";
 
