@@ -13,7 +13,7 @@ export const projects: Project[] = [
     title: "Interactive Dashboard",
     description: "Real-time data visualization dashboard with customizable widgets and analytics.",
     image: "https://images.unsplash.com/photo-1508873535684-277a3cbcc4e8",
-    link: "https://dashboard-demo.example.com",
+    link: "http://localhost:5000/dashboard",
     tags: ["React", "D3.js", "TypeScript"]
   },
   {
